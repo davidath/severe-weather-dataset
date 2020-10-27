@@ -15,7 +15,7 @@ Text is available under the Creative Commons Attribution-ShareAlike License`)
 - Windstorm occurrences from Wikipedia page: [List of European windstorms](https://en.wikipedia.org/wiki/List_of_European_windstorms) (Accessed version: `This page was last edited on 10 February 2020, at 01:50 (UTC).
 Text is available under the Creative Commons Attribution-ShareAlike License`)
 
-- Lat/Long coordinates extracted from [GeoNames](https://www.geonames.org/)(Licensing: `This work is licensed under a
+- Lat/Long coordinates extracted from [GeoNames](https://www.geonames.org/) (Licensing: `This work is licensed under a
 Creative Commons Attribution 4.0 License.`)
 
 ##### Additional Resources used to fill in some missing affected areas in Windstorm occurrences:
