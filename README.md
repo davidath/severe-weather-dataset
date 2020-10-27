@@ -24,4 +24,4 @@ Creative Commons Attribution 4.0 License.`)
 - [Cyclone Quinten affected areas from Everipedia page Cyclone Quinten](https://everipedia.org/wiki/lang_en/Cyclone_Quinten)(Licensing: `Everipedia's articles are licensed under a Creative Commons Attribution 4.0 International License.`)
 
 ## License
-Severe weather occurrences dataset is available under [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/)
+Severe weather occurrences dataset is available under [Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/)
