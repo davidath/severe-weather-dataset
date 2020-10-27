@@ -19,7 +19,7 @@ Text is available under the Creative Commons Attribution-ShareAlike License`)
 Creative Commons Attribution 4.0 License.`)
 
 ##### Additional Resources used to fill in some missing affected areas in Windstorm occurrences:
-- [Extreme Wind Storms Catalogue Site](http://www.europeanwindstorms.org/) (`Licensing: The data provided on this site can be used for research and commercial purposes under the Creative Commons CC BY 4.0`)
+- [Extreme Wind Storms Catalogue Site](http://www.europeanwindstorms.org/) (Licensing: `The data provided on this site can be used for research and commercial purposes under the Creative Commons CC BY 4.0`)
 - [EU Publication: Background information on 11 storms selected for detailed analysis. Appendix 3, Publications Office of the EU, Published: 2013-07-05, Corporate authors: Directorate-General for Environment (European Commission) , EFIATLANTIC The Atlantic European Regional Office of the European Forest Institute](https://op.europa.eu/en/publication-detail/-/publication/d12a54f1-fea5-4458-944b-b32791b144d0)
 - [Cyclone Quinten affected areas from Everipedia page Cyclone Quinten](https://everipedia.org/wiki/lang_en/Cyclone_Quinten)(Licensing: `Everipedia's articles are licensed under a Creative Commons Attribution 4.0 International License.`)
 
