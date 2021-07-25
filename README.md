@@ -25,3 +25,17 @@ Creative Commons Attribution 4.0 License.`)
 
 ## License
 Severe weather occurrences dataset is available under [Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/)
+
+## Citation
+If you use this dataset consider citing the original paper:
+```
+@inproceedings{Davvetas2020,
+  author = {Athanasios Davvetas and Iraklis A. Klampanos},
+  title  = {Unsupervised Severe Weather Detection Via Joint Representation Learning Over Textual and Weather Data},
+  year   = {2020},
+  booktitle = {CEUR Workshop Proceedings},
+  volume = {2844},
+  pages  = {83-87},
+  url    = {http://ceur-ws.org/Vol-2844/ainst7.pdf}
+}
+```
